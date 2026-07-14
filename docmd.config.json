@@ -10,6 +10,11 @@
     "seo": {
       "defaultDescription": "Documentation built with docmd."
     },
+   "plugins": {
+    "sitemap": {
+      "defaultChangefreq": "weekly",
+      "defaultPriority": 0.8
+    },
     "llms": {}
   },
   "navigation": [
