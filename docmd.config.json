@@ -4,7 +4,7 @@
   "src": "docs",
   "out": "site",
   "theme": {
-    "name": "default"
+    "name": "sky"
   },
   "plugins": {
     "seo": {
